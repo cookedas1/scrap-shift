@@ -2,9 +2,9 @@
   "name": "scrap-shift",
   "version": "1.0.0",
   "description": "폐지 수집 게임",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/cookedas1/scrap-shift#readme",
   "devDependencies": {
-    "electrion": "^0.0.1-security"
+    "electrion": "^0.0.1-security",
+    "electron": "^40.1.0"
   }
 }
