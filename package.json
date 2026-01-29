@@ -1,0 +1,23 @@
+{
+  "name": "scrap-shift",
+  "version": "1.0.0",
+  "description": "폐지 수집 게임",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cookedas1/scrap-shift.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cookedas1/scrap-shift/issues"
+  },
+  "homepage": "https://github.com/cookedas1/scrap-shift#readme",
+  "devDependencies": {
+    "electrion": "^0.0.1-security"
+  }
+}
